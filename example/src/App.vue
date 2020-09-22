@@ -1,6 +1,6 @@
 <template>
   <div id="app" class="elm-fullscreen-dialog">
-    <demonstration tag="h2" title="ElmFullscreenDialog 下拉筛选组件" :show-content="false">
+    <demonstration tag="h2" title="ElmFullscreenDialog 全屏对话框组件" :show-content="false">
     </demonstration>
     <demonstration title="基本" :highlight="sourcecodeA" :multiple="true">
       <template slot="source">
